@@ -1,3 +1,4 @@
+Bay gio dung moi ra
 Initializing a Repository and Making Commits
 =========================
 
